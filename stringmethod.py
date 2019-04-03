@@ -1,0 +1,6 @@
+str1 = input('enter your 1st string : ')
+str2 = input('enter your 2nd string : ')
+print(len(str1),len(str2))
+print(str1 + str2)
+print(str1.upper(),str2.upper())
+print(str1.lower(),str2.lower())
